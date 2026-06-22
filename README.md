@@ -72,7 +72,7 @@ The project aims to improve wireless connectivity, efficient IP allocation, and 
 
 ## Project Files
 
-* `cap.pkt` – Cisco Packet Tracer Network Simulation
+* `WiFi6_Network_Architecture.pkt` – Cisco Packet Tracer Network Simulation
 * `WiFi6_Network_Architecture_Presentation.pptx` – Project Presentation
 * `WiFi6_Network_Architecture_Report.pdf` – Detailed Project Report
 
